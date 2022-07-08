@@ -1,0 +1,42 @@
+[
+  {
+    "codcliente": 0,
+    "DNI": "12345678",
+    "apellido": "sernaque",
+    "nombre": "jorge",
+    "direccion": "santa",
+    "telefono": 111111111
+  },
+  {
+    "codcliente": 1,
+    "DNI": "09876543",
+    "apellido": "anticona",
+    "nombre": "juan",
+    "direccion": "santa",
+    "telefono": 999999999
+  },
+  {
+    "codcliente": 2,
+    "DNI": "23456789",
+    "apellido": "manrrique",
+    "nombre": "quique",
+    "direccion": "chimbote",
+    "telefono": 333333333
+  },
+  {
+    "codcliente": 3,
+    "DNI": "44444444",
+    "apellido": "salas",
+    "nombre": "victor",
+    "direccion": "santa",
+    "telefono": 555555555
+  },
+  {
+    "codcliente": 4,
+    "DNI": "55555555",
+    "apellido": "mina",
+    "nombre": "jose",
+    "direccion": "chimbote",
+    "telefono": 666666666
+  }
+]
